@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Virtual Zoom App**
+- 🔭 I’m currently working on **AI Agents**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m looking to collaborate on **AI Based Projects**
 
