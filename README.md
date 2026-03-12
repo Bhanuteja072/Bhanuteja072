@@ -78,7 +78,7 @@
 - **Backend**: Express.js, Node.js APIs with role-based access (admin/customer)
 - **Database**: MongoDB with optimized schemas and indexing (35% speed improvement)
 - **Auth**: Secure authentication and session management
-- **Live**: [Deployed Version](link-to-live)
+- **Live**: [Deployed Version](https://food-delivey-frontend.onrender.com/)
 
 #### **5. 🏠 FindMyStay - Property Listing Platform**
 - **Stack**: MongoDB, Express, React, Node (MERN)
