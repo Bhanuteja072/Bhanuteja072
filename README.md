@@ -56,7 +56,7 @@
 
 ### 📊 Key Projects Showcasing AI Expertise
 
-#### **1. 🤖 Agentic Chatbot** | [Repo](https://github.com/Bhanuteja07)
+#### **1. 🤖 Agentic Chatbot** | [Repo](https://github.com/Bhanuteja072/Agentic-Chatbot)
 - **Tech**: LangGraph, Groq LLM, Streamlit, FAISS, BeautifulSoup
 - **Features**: 5 integrated AI workflows with dual RAG pipelines
 - **Impact**: 40% improved context relevance, 60% reduction in runtime failures
