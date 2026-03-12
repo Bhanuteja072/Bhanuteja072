@@ -1,137 +1,184 @@
 <!-- ===================== PROFILE HEADER ===================== -->
-
 <h1 align="center">Hi, I'm Bhanuteja Pusarla</h1>
-<h3 align="center">Full Stack Developer | AI & Agentic Systems Enthusiast</h3>
+<h3 align="center">🤖 AI Engineer | Full Stack Developer | Agentic AI Systems Architect</h3>
 
 <p align="center">
-I build scalable web applications and intelligent AI-driven systems with a strong focus on real-world impact, clean architecture, and automation.
+  Passionate about building intelligent, scalable systems that combine AI/ML with production-grade architecture. Specialized in <b>Generative AI, Agentic Systems, and LLM-based workflows</b> with hands-on experience in <b>Deep Learning, Neural Networks, and AI Agent orchestration</b>.
 </p>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ===================== AI EXPERTISE ===================== -->
+### 🧠 AI & Machine Learning Expertise
 
-### 👨‍💻 About Me
+#### **Generative AI & LLMs**
+- **LangChain / LangGraph**: Advanced multi-agent orchestration, stateful workflows, and complex task automation
+- **LLM Integration**: Groq, OpenAI, Claude with prompt engineering and fine-tuning strategies
+- **RAG Systems**: Dual-pipeline RAG with vector databases (FAISS), PDF/URL scraping, and intelligent routing
+- **AI Blog Generator**: Developed SEO-friendly content generation system with multilingual support (Hindi, French)
 
-* Full Stack Developer with experience across **frontend, backend, databases, and AI systems**
-* Actively working on **AI Agents and Agentic AI architectures**
-* Strong in **Python, JavaScript, backend APIs, databases, and system workflows**
-* Passionate about **automation, intelligent decision systems, and scalable products**
-* Comfortable working on **end-to-end application development**
+#### **Agentic AI Systems** ⭐
+- **LangGraph State Management**: Building modular, production-grade AI workflows with tool augmentation
+- **Multi-Agent Orchestration**: 5+ integrated AI workflows (chat, search, summarization, RAG) with fallback mechanisms
+- **Tool-Augmented Search**: Integration with TavilyWikipedia APIs and custom knowledge bases
+- **Hallucination Detection**: Intelligent context filtering and confidence scoring
+- **Agentic Chatbot**: Streamlit-based application achieving 40% improved context relevance
+
+#### **Deep Learning & Neural Networks**
+- **CNN Architectures**: ResNet18 fine-tuning for image classification (90%+ accuracy)
+- **Transfer Learning**: Optimized model inference, reducing prediction time by 30%
+- **Supervised & Unsupervised Learning**: Classification, clustering, and pattern recognition
+- **Car Damage Prediction Model**: Deep learning web app with real-time predictions and image preprocessing
+
+#### **NLP & Text Processing**
+- **Sentiment Analysis**: Trend-based content generation and emotional intelligence scoring
+- **Text Generation**: Long-form content creation with semantic coherence
+- **Embeddings**: HuggingFace all-MiniLM-L6-v2 for semantic search and similarity
+- **AB Testing**: Engagement prediction pipelines with 30% accuracy improvement
+
+#### **Data Processing & Analytics**
+- **PyTorch & TensorFlow**: Deep learning frameworks for model training and optimization
+- **NumPy & Pandas**: Advanced data manipulation and feature engineering
+- **Scikit-learn**: Machine learning pipelines and preprocessing
+- **Data-Driven Automation**: 60% manual work reduction through intelligent pipelines
 
 ---
 
-<!-- ===================== CURRENT WORK ===================== -->
+### 💼 Professional Experience
 
-### 🔭 Current Work
-
-* Building **AI Agent-based applications**
-* Designing **full stack systems with Flask, Node.js, and React**
-* Working on **data-driven automation and intelligent pipelines**
+#### **Infosys Springboard Virtual Internship** (Nov 2025 - Jan 2026)
+- Built **AI-driven content marketing system** using Python, NLP, and LLMs
+- Reduced manual content drafting time by **60%** | Improved relevance scoring by **30%**
+- Engineered **AB testing pipeline** with engagement prediction and Streamlit dashboard
+- Optimized content selection accuracy for maximum engagement
 
 ---
 
-<!-- ===================== LEARNING ===================== -->
+### 📊 Key Projects Showcasing AI Expertise
+
+#### **1. 🤖 Agentic Chatbot** | [Repo](https://github.com/Bhanuteja072)
+- **Tech**: LangGraph, Groq LLM, Streamlit, FAISS, BeautifulSoup
+- **Features**: 5 integrated AI workflows with dual RAG pipelines
+- **Impact**: 40% improved context relevance, 60% reduction in runtime failures
+- **Architecture**: Modular, isolated node functions with centralized graph builder
+
+#### **2. ✍️ AI Blog Generator** | [Repo](https://github.com/Bhanuteja072)
+- **Tech**: LangGraph, Groq LLM, Streamlit, LangSmith monitoring
+- **Capabilities**: Graph-based orchestration, multilingual support (Hindi, French, English)
+- **Outcome**: 50% improvement in content creation efficiency
+- **UI**: Interactive Streamlit interface with real-time generation
+
+#### **3. 🚗 Car Damage Prediction** | [Repo](https://github.com/Bhanuteja072)
+- **Model**: Fine-tuned ResNet18 CNN achieving 90%+ test accuracy
+- **Tech**: PyTorch, TensorFlow, Streamlit, Image processing
+- **Optimization**: 30% reduction in prediction time through inference optimization
+- **Interface**: Real-time prediction with smooth image upload and feedback
+
+#### **4. 🍔 Foodie - Full Stack Delivery System**
+- **Backend**: Express.js, Node.js APIs with role-based access (admin/customer)
+- **Database**: MongoDB with optimized schemas and indexing (35% speed improvement)
+- **Auth**: Secure authentication and session management
+- **Live**: [Deployed Version](link-to-live)
+
+#### **5. 🏠 FindMyStay - Property Listing Platform**
+- **Stack**: MongoDB, Express, React, Node (MERN)
+- **Features**: User login, CRUD operations, modular REST APIs
+- **Database**: Optimized query performance and server response times
+- **Live**: [Deployed Version](link-to-live)
+
+---
+
+### 🛠️ Technical Skills Stack
+
+#### **AI/ML Frameworks**
+```
+PyTorch | TensorFlow | LangChain | LangGraph | CrewAI | LangSmith
+Scikit-learn | NumPy | Pandas | FAISS | HuggingFace Transformers
+```
+
+#### **Programming Languages**
+```
+Python (Primary) | JavaScript/Node.js | Java | C
+```
+
+#### **Web Development (Full Stack)**
+```
+Frontend: React, Vite, HTML5, CSS3, Bootstrap
+Backend: Express.js, Node.js, Flask, REST APIs
+Databases: MongoDB, MySQL
+Tools: Git, GitHub, Jupyter Notebook, Colab
+```
+
+#### **AI/ML Tools & Platforms**
+```
+Streamlit | Jupyter Notebook | Google Colab
+Git/GitHub | LangSmith | Hugging Face Hub
+TensorFlow Hub | PyTorch Hub | Scikit-learn
+```
+
+---
+
+### 🎓 Education & Certifications
+
+**B.Tech in Computer Science - AIML**
+- Maharaj Vijayaram Gajapathi Raj College (Nov 2022 - Mar 2026)
+- GPA: 8.8/10.0
+- Relevant Coursework: Data Structures, OOP, Operating Systems, ML Algorithms
+
+**Certifications**
+- ✅ **Deep Learning for Developers** - Neural networks & real-world AI applications
+- ✅ **Principles of Generative AI** - GANs, VAEs, and practical AI systems
+- ✅ **Python Programming** - Advanced data structures and OOP
+- ✅ **Responsive Web Development** - HTML5, CSS3, adaptive layouts
+
+---
 
 ### 🌱 Currently Learning
 
-* Agentic AI systems
-* LLM-based workflows
-* Advanced backend & system design for AI applications
+- Advanced **Agentic AI architectures** and multi-agent collaboration patterns
+- **LLM fine-tuning** and domain-specific model adaptation
+- **Production AI systems** design and deployment at scale
+- **Prompt engineering** best practices and chain-of-thought techniques
+- **Vector databases** optimization and semantic search enhancements
 
 ---
-
-<!-- ===================== COLLABORATION ===================== -->
 
 ### 🤝 Open to Collaborate On
 
-* AI-based products
-* Full Stack web applications
-* Automation tools
-* Open-source projects with real-world use cases
+- 🚀 **AI-powered products** and intelligent automation systems
+- 🧠 **LLM applications** and agentic workflows
+- 🌐 **Full-stack AI applications** combining frontend + backend + AI
+- 🔧 **Open-source AI projects** with real-world impact
+- 📊 **Data-driven solutions** and ML pipelines
 
 ---
 
-<!-- ===================== CONTACT ===================== -->
+### 📫 Contact & Links
 
-### 📫 Contact
-
-* **Email:** [bhanutejapusarla@gmail.com](mailto:bhanutejapusarla@gmail.com)
-* **Resume:**
-  [https://drive.google.com/file/d/1FLldZC4df_ph9_NaImiKQT_sxSkM9tiL/view?usp=sharing](https://drive.google.com/file/d/1FLldZC4df_ph9_NaImiKQT_sxSkM9tiL/view?usp=sharing)
+- **Email**: [bhanutejapusarla@gmail.com](mailto:bhanutejapusarla@gmail.com)
+- **LinkedIn**: [linkedin.com/in/bhanuteja-pusarla](https://www.linkedin.com/in/bhanuteja-pusarla)
+- **GitHub**: [github.com/Bhanuteja072](https://github.com/Bhanuteja072)
+- **LeetCode**: [leetcode.com/Bhanutejapusarla](https://leetcode.com/Bhanutejapusarla)
+- **Portfolio**: Coming Soon 🚀
 
 ---
 
-<!-- ===================== SOCIAL LINKS ===================== -->
+### 🏆 Achievements
 
-### 🌐 Connect With Me
+- Hackathon Participant: **Build with India** (National-level)
+- **60% manual work reduction** through intelligent AI pipelines
+- **90%+ accuracy** on deep learning models
+- **40% improved context relevance** in agentic systems
+- **35% faster API response times** through optimization
 
-<p align="left">
-<a href="https://www.linkedin.com/in/bhanuteja-pusarla-a0a487259/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/_bhanu_.teja" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+---
+
+<p align="center">
+  <i>"Building the future with AI, one agent at a time."</i>
 </p>
 
----
-
-<!-- ===================== SKILLS ===================== -->
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<p align="center">
+  <a href="https://github.com/Bhanuteja072">
+    <img src="https://img.shields.io/github/followers/Bhanuteja072?label=Follow&style=social" />
+  </a>
 </p>
-
----
-
-<!-- ===================== PROJECTS ===================== -->
-
-### 🚀 Key Projects
-
-**AI Agent Systems**
-
-* Designed agent-based workflows for automated reasoning and decision-making
-* Integrated AI agents with backend services and data pipelines
-
-**Full Stack Applications**
-
-* Built end-to-end web applications using Flask, Node.js, React, and MongoDB
-* Implemented authentication, dashboards, and REST APIs
-
-**Automation & Data Systems**
-
-* Developed automation tools for scraping, monitoring, and notifications
-* Worked with structured data storage and visualization
-
----
-
-
-
----
-
-<!-- ===================== VALUE ===================== -->
-
-### 💡 What I Bring
-
-* Clean, maintainable, and scalable code
-* Strong problem-solving and debugging skills
-* Ability to work across **frontend, backend, and AI layers**
-* Focus on performance, reliability, and usability
-
----
-
-⭐ *Always learning. Always building.*
