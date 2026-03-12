@@ -56,7 +56,7 @@
 
 ### 📊 Key Projects Showcasing AI Expertise
 
-#### **1. 🤖 Agentic Chatbot** | [Repo](https://github.com/Bhanuteja072)
+#### **1. 🤖 Agentic Chatbot** | [Repo](https://github.com/Bhanuteja07)
 - **Tech**: LangGraph, Groq LLM, Streamlit, FAISS, BeautifulSoup
 - **Features**: 5 integrated AI workflows with dual RAG pipelines
 - **Impact**: 40% improved context relevance, 60% reduction in runtime failures
@@ -68,7 +68,7 @@
 - **Outcome**: 50% improvement in content creation efficiency
 - **UI**: Interactive Streamlit interface with real-time generation
 
-#### **3. 🚗 Car Damage Prediction** | [Repo](https://github.com/Bhanuteja072)
+#### **3. 🚗 Car Damage Prediction** | [Repo](https://github.com/Bhanuteja072/Car_Damage_Prediction)
 - **Model**: Fine-tuned ResNet18 CNN achieving 90%+ test accuracy
 - **Tech**: PyTorch, TensorFlow, Streamlit, Image processing
 - **Optimization**: 30% reduction in prediction time through inference optimization
