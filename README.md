@@ -62,7 +62,7 @@
 - **Impact**: 40% improved context relevance, 60% reduction in runtime failures
 - **Architecture**: Modular, isolated node functions with centralized graph builder
 
-#### **2. ✍️ AI Blog Generator** | [Repo](https://github.com/Bhanuteja072)
+#### **2. ✍️ AI Blog Generator** | [Repo](https://github.com/Bhanuteja072/BLOG_GENERATOR)
 - **Tech**: LangGraph, Groq LLM, Streamlit, LangSmith monitoring
 - **Capabilities**: Graph-based orchestration, multilingual support (Hindi, French, English)
 - **Outcome**: 50% improvement in content creation efficiency
