@@ -159,7 +159,7 @@ TensorFlow Hub | PyTorch Hub | Scikit-learn
 - **LinkedIn**: [linkedin.com/in/bhanuteja-pusarla](https://www.linkedin.com/in/bhanuteja-pusarla)
 - **GitHub**: [github.com/Bhanuteja072](https://github.com/Bhanuteja072)
 - **LeetCode**: [leetcode.com/Bhanutejapusarla](https://leetcode.com/Bhanutejapusarla)
-- **Portfolio**: Coming Soon 🚀
+- **Portfolio**: [portfolio/Bhanuteja-pusarla](https://bhanutejapusarla-portfolio.netlify.app/)
 
 ---
 
