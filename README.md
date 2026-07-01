@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhanuteja-pusarla"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bhanuteja-pusarla-a0a487259/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bhanutejapusarla@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://bhanutejapusarla-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://leetcode.com/Bhanutejapusarla"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
@@ -20,14 +20,13 @@
 #### 🌍 **AI/ML Engineer Intern — Mumzworld** *(2026 – Present)*
 - Working on AI/ML-driven initiatives as part of Mumzworld's engineering team
 - Applying LLM and agentic AI expertise to real-world e-commerce/product challenges
-- *(Add specific responsibilities/impact once you have a few weeks of concrete metrics — happy to help rewrite this bullet-by-bullet later)*
-
+  
 #### 🚀 **Generative AI / Software Engineering Intern — Infosys Springboard** *(Nov 2025 – Jan 2026)*
 - Built an **AI-driven content marketing system** using Python, NLP, and LLMs
 - Reduced manual content drafting time by **60%** and improved relevance scoring by **30%**
 - Engineered an **A/B testing pipeline** with engagement prediction and a Streamlit dashboard
 
-#### 🎙️ **Voice AI Intern** *(Current)*
+#### 🎙️ **Voice AI Intern**
 - Building **HVAC voice agents** using **Retell AI** and **Vapi**
 - Backend powered by **Supabase**, integrated with **GoHighLevel CRM**
 - Collaborating on real-time voice pipelines: ASR → LLM → TTS orchestration
@@ -55,9 +54,12 @@
 
 ### 📊 Featured Projects
 
-#### **1. 🧩 MeetIQ** | [Live](https://meetiq.me)
-- **Tech**: LangGraph, Groq LLaMA 3.3 70B, AssemblyAI, FastAPI, React, MongoDB Atlas
-- AI-powered meeting intelligence platform with real-time transcription and structured insights
+#### **1. 🧩 MeetIQ — AI Meeting Intelligence Platform** | [Live](https://meetiq.me)
+- **Tech**: LangGraph, Groq LLaMA 3.3 70B, AssemblyAI, FastAPI, React.js, MongoDB Atlas
+- Architected an end-to-end platform handling audio upload, transcription, speaker diarization, AI analysis, and semantic search in one production system
+- Built a **4-agent LangGraph pipeline** (summary, action items, decisions, blockers) with structured JSON outputs — turns raw meetings into actionable reports in **under 25 seconds**
+- Integrated **AssemblyAI** for cloud transcription + speaker diarization, supporting MP3, WAV, MP4, M4A
+- Built a **RAG search engine** using MongoDB Atlas Vector Search + Jina embeddings for sub-second natural language search across the full meeting archive
 
 #### **2. 🤖 Agentic Chatbot** | [Live](https://agentic-bot.streamlit.app) · [Repo](https://github.com/Bhanuteja072/Agentic-Chatbot)
 - **Tech**: LangGraph, Groq LLM, FAISS, HuggingFace, Streamlit
@@ -118,7 +120,7 @@ GPA: **8.8/10.0**
 ### 📫 Connect With Me
 
 - **Email**: [bhanutejapusarla@gmail.com](mailto:bhanutejapusarla@gmail.com)
-- **LinkedIn**: [linkedin.com/in/bhanuteja-pusarla](https://www.linkedin.com/in/bhanuteja-pusarla)
+- **LinkedIn**: [linkedin.com/in/bhanuteja-pusarla](https://www.linkedin.com/in/bhanuteja-pusarla-a0a487259/)
 - **GitHub**: [github.com/Bhanuteja072](https://github.com/Bhanuteja072)
 - **Portfolio**: [bhanutejapusarla-portfolio.netlify.app](https://bhanutejapusarla-portfolio.netlify.app/)
 
