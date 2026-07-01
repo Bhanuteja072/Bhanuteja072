@@ -17,7 +17,7 @@
 
 ### 💼 Professional Experience
 
-#### 🌍 **AI/ML Engineer Intern — Mumzworld** *(2026 – Present)*
+#### 🌍 **AI/ML Engineer Intern — Mumzworld** *(2026 JUlY – Present)*
 - Working on AI/ML-driven initiatives as part of Mumzworld's engineering team
 - Applying LLM and agentic AI expertise to real-world e-commerce/product challenges
   
