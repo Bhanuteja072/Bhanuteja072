@@ -1,184 +1,127 @@
 <!-- ===================== PROFILE HEADER ===================== -->
-<h1 align="center">Hi, I'm Bhanuteja Pusarla</h1>
-<h3 align="center">🤖 AI Engineer | Full Stack Developer | Agentic AI Systems Architect</h3>
+<h1 align="center">Hi, I'm Bhanuteja Pusarla 👋</h1>
+<h3 align="center">AI/ML Engineer | Full Stack Developer | Agentic AI Systems Architect</h3>
 
 <p align="center">
-  Passionate about building intelligent, scalable systems that combine AI/ML with production-grade architecture. Specialized in <b>Generative AI, Agentic Systems, and LLM-based workflows</b> with hands-on experience in <b>Deep Learning, Neural Networks, and AI Agent orchestration</b>.
+  Building intelligent, production-grade systems at the intersection of AI/ML and full-stack engineering — from LLM-powered agents to voice AI platforms.
 </p>
 
----
-
-<!-- ===================== AI EXPERTISE ===================== -->
-### 🧠 AI & Machine Learning Expertise
-
-#### **Generative AI & LLMs**
-- **LangChain / LangGraph**: Advanced multi-agent orchestration, stateful workflows, and complex task automation
-- **LLM Integration**: Groq, OpenAI, Claude with prompt engineering and fine-tuning strategies
-- **RAG Systems**: Dual-pipeline RAG with vector databases (FAISS), PDF/URL scraping, and intelligent routing
-- **AI Blog Generator**: Developed SEO-friendly content generation system with multilingual support (Hindi, French)
-
-#### **Agentic AI Systems** ⭐
-- **LangGraph State Management**: Building modular, production-grade AI workflows with tool augmentation
-- **Multi-Agent Orchestration**: 5+ integrated AI workflows (chat, search, summarization, RAG) with fallback mechanisms
-- **Tool-Augmented Search**: Integration with TavilyWikipedia APIs and custom knowledge bases
-- **Hallucination Detection**: Intelligent context filtering and confidence scoring
-- **Agentic Chatbot**: Streamlit-based application achieving 40% improved context relevance
-
-#### **Deep Learning & Neural Networks**
-- **CNN Architectures**: ResNet18 fine-tuning for image classification (90%+ accuracy)
-- **Transfer Learning**: Optimized model inference, reducing prediction time by 30%
-- **Supervised & Unsupervised Learning**: Classification, clustering, and pattern recognition
-- **Car Damage Prediction Model**: Deep learning web app with real-time predictions and image preprocessing
-
-#### **NLP & Text Processing**
-- **Sentiment Analysis**: Trend-based content generation and emotional intelligence scoring
-- **Text Generation**: Long-form content creation with semantic coherence
-- **Embeddings**: HuggingFace all-MiniLM-L6-v2 for semantic search and similarity
-- **AB Testing**: Engagement prediction pipelines with 30% accuracy improvement
-
-#### **Data Processing & Analytics**
-- **PyTorch & TensorFlow**: Deep learning frameworks for model training and optimization
-- **NumPy & Pandas**: Advanced data manipulation and feature engineering
-- **Scikit-learn**: Machine learning pipelines and preprocessing
-- **Data-Driven Automation**: 60% manual work reduction through intelligent pipelines
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhanuteja-pusarla"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bhanutejapusarla@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://bhanutejapusarla-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://leetcode.com/Bhanutejapusarla"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 💼 Professional Experience
 
-#### **Infosys Springboard Virtual Internship** (Nov 2025 - Jan 2026)
-- Built **AI-driven content marketing system** using Python, NLP, and LLMs
-- Reduced manual content drafting time by **60%** | Improved relevance scoring by **30%**
-- Engineered **AB testing pipeline** with engagement prediction and Streamlit dashboard
-- Optimized content selection accuracy for maximum engagement
+#### 🌍 **AI/ML Engineer Intern — Mumzworld** *(2026 – Present)*
+- Working on AI/ML-driven initiatives as part of Mumzworld's engineering team
+- Applying LLM and agentic AI expertise to real-world e-commerce/product challenges
+- *(Add specific responsibilities/impact once you have a few weeks of concrete metrics — happy to help rewrite this bullet-by-bullet later)*
+
+#### 🚀 **Generative AI / Software Engineering Intern — Infosys Springboard** *(Nov 2025 – Jan 2026)*
+- Built an **AI-driven content marketing system** using Python, NLP, and LLMs
+- Reduced manual content drafting time by **60%** and improved relevance scoring by **30%**
+- Engineered an **A/B testing pipeline** with engagement prediction and a Streamlit dashboard
+
+#### 🎙️ **Voice AI Intern** *(Current)*
+- Building **HVAC voice agents** using **Retell AI** and **Vapi**
+- Backend powered by **Supabase**, integrated with **GoHighLevel CRM**
+- Collaborating on real-time voice pipelines: ASR → LLM → TTS orchestration
 
 ---
 
-### 📊 Key Projects Showcasing AI Expertise
+### 🧠 AI & Machine Learning Expertise
 
-#### **1. 🤖 Agentic Chatbot** | [Repo](https://github.com/Bhanuteja072/Agentic-Chatbot)
-- **Tech**: LangGraph, Groq LLM, Streamlit, FAISS, BeautifulSoup
-- **Features**: 5 integrated AI workflows with dual RAG pipelines
-- **Impact**: 40% improved context relevance, 60% reduction in runtime failures
-- **Architecture**: Modular, isolated node functions with centralized graph builder
+#### **Generative AI & Agentic Systems** ⭐
+- **LangChain / LangGraph**: Multi-agent orchestration, stateful workflows, tool-augmented reasoning
+- **RAG Systems**: Dual-pipeline RAG with FAISS, PDF/URL scraping, and intelligent routing
+- **LLM Integration**: Groq (LLaMA 3.3 70B), OpenAI, Claude — prompt engineering & orchestration
+- **Voice AI**: VAPI, ElevenLabs, Deepgram, Twilio — real-time conversational agent pipelines
 
-#### **2. ✍️ AI Blog Generator** | [Repo](https://github.com/Bhanuteja072/BLOG_GENERATOR)
-- **Tech**: LangGraph, Groq LLM, Streamlit, LangSmith monitoring
-- **Capabilities**: Graph-based orchestration, multilingual support (Hindi, French, English)
-- **Outcome**: 50% improvement in content creation efficiency
-- **UI**: Interactive Streamlit interface with real-time generation
+#### **Deep Learning & Neural Networks**
+- **CNNs**: ResNet18 fine-tuning for image classification (90%+ accuracy)
+- **Transfer Learning**: Reduced inference/prediction time by 30%
+- **Frameworks**: PyTorch, TensorFlow, Scikit-learn
 
-#### **3. 🚗 Car Damage Prediction** | [Repo](https://github.com/Bhanuteja072/Car_Damage_Prediction)
-- **Model**: Fine-tuned ResNet18 CNN achieving 90%+ test accuracy
-- **Tech**: PyTorch, TensorFlow, Streamlit, Image processing
-- **Optimization**: 30% reduction in prediction time through inference optimization
-- **Interface**: Real-time prediction with smooth image upload and feedback
-
-#### **4. 🍔 Foodie - Full Stack Delivery System**
-- **Backend**: Express.js, Node.js APIs with role-based access (admin/customer)
-- **Database**: MongoDB with optimized schemas and indexing (35% speed improvement)
-- **Auth**: Secure authentication and session management
-- **Live**: [Deployed Version](https://food-delivey-frontend.onrender.com/)
-
-#### **5. 🏠 FindMyStay - Property Listing Platform**
-- **Stack**: MongoDB, Express, React, Node (MERN)
-- **Features**: User login, CRUD operations, modular REST APIs
-- **Database**: Optimized query performance and server response times
-- **Live**: [Deployed Version](https://findmystayyy.onrender.com/listings)
+#### **NLP & Text Processing**
+- Sentiment analysis, semantic search, and embeddings (HuggingFace `all-MiniLM-L6-v2`)
+- Long-form content generation with semantic coherence
 
 ---
 
-### 🛠️ Technical Skills Stack
+### 📊 Featured Projects
 
-#### **AI/ML Frameworks**
-```
-PyTorch | TensorFlow | LangChain | LangGraph | CrewAI | LangSmith
-Scikit-learn | NumPy | Pandas | FAISS | HuggingFace Transformers
-```
+#### **1. 🧩 MeetIQ** | [Live](https://meetiq.me)
+- **Tech**: LangGraph, Groq LLaMA 3.3 70B, AssemblyAI, FastAPI, React, MongoDB Atlas
+- AI-powered meeting intelligence platform with real-time transcription and structured insights
 
-#### **Programming Languages**
-```
-Python (Primary) | JavaScript/Node.js | Java | C
-```
+#### **2. 🤖 Agentic Chatbot** | [Live](https://agentic-bot.streamlit.app) · [Repo](https://github.com/Bhanuteja072/Agentic-Chatbot)
+- **Tech**: LangGraph, Groq LLM, FAISS, HuggingFace, Streamlit
+- 5 integrated AI workflows with dual RAG pipelines — 40% improved context relevance
 
-#### **Web Development (Full Stack)**
-```
-Frontend: React, Vite, HTML5, CSS3, Bootstrap
-Backend: Express.js, Node.js, Flask, REST APIs
-Databases: MongoDB, MySQL
-Tools: Git, GitHub, Jupyter Notebook, Colab
-```
+#### **3. 🎙️ Riya — Voice AI Agent**
+- **Tech**: VAPI, ElevenLabs, Deepgram, Groq, Twilio
+- End-to-end voice agent with barge-in handling, AMD detection, and multilingual support
 
-#### **AI/ML Tools & Platforms**
-```
-Streamlit | Jupyter Notebook | Google Colab
-Git/GitHub | LangSmith | Hugging Face Hub
-TensorFlow Hub | PyTorch Hub | Scikit-learn
-```
+#### **4. 📄 AI Financial Document Analyzer**
+- **Tech**: CrewAI, FastAPI
+- Multi-agent system for automated financial document parsing and analysis
+
+#### **5. 🏠 FindMyStay** | [Live](https://findmystayyy.onrender.com/listings)
+- **Tech**: Node.js, Express.js, MongoDB, React (MERN)
+- Full-stack property listing platform with modular REST APIs
 
 ---
 
-### 🎓 Education & Certifications
+### 🛠️ Technical Skills
 
-**B.Tech in Computer Science - AIML**
-- Maharaj Vijayaram Gajapathi Raj College (Nov 2022 - Mar 2026)
-- GPA: 8.8/10.0
-- Relevant Coursework: Data Structures, OOP, Operating Systems, ML Algorithms
-
-**Certifications**
-- ✅ **Deep Learning for Developers** - Neural networks & real-world AI applications
-- ✅ **Principles of Generative AI** - GANs, VAEs, and practical AI systems
-- ✅ **Python Programming** - Advanced data structures and OOP
-- ✅ **Responsive Web Development** - HTML5, CSS3, adaptive layouts
-
----
-
-### 🌱 Currently Learning
-
-- Advanced **Agentic AI architectures** and multi-agent collaboration patterns
-- **LLM fine-tuning** and domain-specific model adaptation
-- **Production AI systems** design and deployment at scale
-- **Prompt engineering** best practices and chain-of-thought techniques
-- **Vector databases** optimization and semantic search enhancements
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-### 🤝 Open to Collaborate On
+### 🎓 Education
 
-- 🚀 **AI-powered products** and intelligent automation systems
-- 🧠 **LLM applications** and agentic workflows
-- 🌐 **Full-stack AI applications** combining frontend + backend + AI
-- 🔧 **Open-source AI projects** with real-world impact
-- 📊 **Data-driven solutions** and ML pipelines
+**B.Tech in Computer Science (AI/ML)**
+Maharaj Vijayaram Gajapathi Raj College of Engineering | Nov 2022 – May 2026
+GPA: **8.8/10.0**
 
 ---
 
-### 📫 Contact & Links
+### 🌱 Currently Exploring
+
+- Advanced agentic AI architectures and multi-agent collaboration
+- Production-grade voice AI systems and CRM integrations (GoHighLevel, Jobber)
+- LLM fine-tuning and domain-specific adaptation
+
+---
+
+### 📫 Connect With Me
 
 - **Email**: [bhanutejapusarla@gmail.com](mailto:bhanutejapusarla@gmail.com)
 - **LinkedIn**: [linkedin.com/in/bhanuteja-pusarla](https://www.linkedin.com/in/bhanuteja-pusarla)
 - **GitHub**: [github.com/Bhanuteja072](https://github.com/Bhanuteja072)
-- **LeetCode**: [leetcode.com/Bhanutejapusarla](https://leetcode.com/Bhanutejapusarla)
-- **Portfolio**: [portfolio/Bhanuteja-pusarla](https://bhanutejapusarla-portfolio.netlify.app/)
-
----
-
-### 🏆 Achievements
-
-- Hackathon Participant: **Build with India** (National-level)
-- **60% manual work reduction** through intelligent AI pipelines
-- **90%+ accuracy** on deep learning models
-- **40% improved context relevance** in agentic systems
-- **35% faster API response times** through optimization
-
----
+- **Portfolio**: [bhanutejapusarla-portfolio.netlify.app](https://bhanutejapusarla-portfolio.netlify.app/)
 
 <p align="center">
-  <i>"Building the future with AI, one agent at a time."</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Bhanuteja072">
-    <img src="https://img.shields.io/github/followers/Bhanuteja072?label=Follow&style=social" />
-  </a>
+  <img src="https://img.shields.io/github/followers/Bhanuteja072?label=Follow&style=social" />
 </p>
